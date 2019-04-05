@@ -1,7 +1,11 @@
 == Chapter I.
 
-His Birth and Parentage--Religious Exercises in Early Life--
-His Marriage and Call to the Ministry--Removal into Scotland.
+[.chapter-synopsis]
+* His Birth and Parentage
+* Religious Exercises in Early Life
+* His Marriage and Call to the Ministry
+* Removal into Scotland
+//Do you want "his" removed on these above to make it more uniform?
 
 As I have frequently had it on my mind,
 to leave behind me some record of the Lord`'s gracious dealings with me from my childhood,
@@ -196,6 +200,7 @@ that as Adam`'s sin was disobedience, and aspiring to the knowledge of good and 
 so his offspring are innocent,
 (or not held responsible,) till they arrive at a capacity to partake of this knowledge.
 This will apply to idiots also, as well as children.--Rom. 4:15; v. 13.
+//maybe "idiots" above should be changed? :)
 
 Another point of doctrine with which I was then much tried,
 was that of election and reprobation,
