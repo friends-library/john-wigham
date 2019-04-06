@@ -1,12 +1,16 @@
 == Chapter III.
 
 [.chapter-synopsis]
-* His Travels In America in the Years 1794 to 1797
+* Travels In America in the Years 1794 to 1797
 
 +++[+++They landed at Boston 23rd of Ninth Month;
 but an affecting accident happened on board the ship on the preceding day,
 which cast a gloom over the passengers and ship`'s company.
 John Wigham notices the event in a letter to his wife, in nearly the following terms:
+
+[.embedded-content-document.letter]
+--
+
 "`A melancholy accident happened on board our ship last night; one of the sailors,
 a brother of the Captain, fell from the top-gallant yard into the boat on the deck,
 and was killed instantly.
@@ -16,6 +20,8 @@ It was an alarming circumstance to us to be called up in the night about 12 o`'c
 with the striking intelligence;
 and our tender-spirited young women were almost overcome with grief on the occasion.
 The body was brought on shore to be buried this afternoon.`"]
+
+--
 
 After attending the week day meeting at Boston on the 25th, I left it on the 27th,
 and reached New Bedford the same evening; attended the Meetings there on the First day,
@@ -67,11 +73,11 @@ and it ended to satisfaction.
 [.embedded-content-document.letter]
 --
 
-[.signed-section-context-open]
-Providence, Rhode Island, Eleventh Month 5th, 1794.
-
 [.letter-heading]
 To His Wife.
+
+[.signed-section-context-open]
+Providence, Rhode Island, Eleventh Month 5th, 1794.
 
 Though I am pretty far from any seaport,
 and not conveniently situated to get a letter forwarded to you,
@@ -117,8 +123,8 @@ that by taking thought we cannot add one cubit to our stature.
 The Lord knows what things we stand in need of;--may He bless you with a peaceful mind,
 and be near to support you in every trying time.
 
-To my dear children,
-how do I feel my heart filled with paternal love to them all!--and renewedly so,
+To my dear children, how do I feel my heart filled with paternal love to them all!
+--and renewedly so,
 at this time while I am writing.
 
 --
@@ -130,6 +136,9 @@ several of them appointed for those not in profession with our religious Society
 besides visiting the families of Friends at Sandwich.
 Arriving at Richmond, he attended a Monthly Meeting there,
 and thus proceeds with his narrative.]
+
+[.small-break]
+'''
 
 Twelfth Month.
 After the Monthly Meeting at Richmond, I attended an appointed meeting the following day;
@@ -447,11 +456,17 @@ having for lack of faithfulness, made little progress in religion, and I fear,
 proved rather a cause of stumbling than of assistance to their children.
 I felt very reluctant to leave them.
 
+[.small-break]
+'''
+
 +++[+++First day,
 24th. During the preceding two weeks he appears to have travelled on horseback, on foot,
 and hy water, 189 miles, had about fifteen meetings,
-besides attending a Monthly Meeting at Wasselburgh.]
-His narrative proceeds:--
+besides attending a Monthly Meeting at Wasselburgh.
+His narrative proceeds:--]
+
+[.small-break]
+'''
 
 At Been`'s Green we lodged with Cyrus and Mary Dean,
 who entertained us kindly in a little log-house; though poor as to this world,
@@ -487,11 +502,17 @@ Through Divine assistance we were sweetly united in gospel labour,
 by which we were endeared to each other; and when the time came for us to be separated,
 each to our several allotments of duty, our parting proved a solemn one.
 
+[.small-break]
+'''
+
 +++[+++Being joined by his friend, Samuel Smith, as companion, they travelled together,
 and held many meetings, through a rough country, where the roads were difficult;
 and the weather being very hot,
 Samuel Smith finding himself unequal to the exertion of proceeding further,
 left John Wigham at Richmond, and turned towards Rhode Island.]
+
+[.small-break]
+'''
 
 12th of Seventh Month.
 I set out towards the Cohons`' Country with a Friend named Israel Saby, as guide.
@@ -653,6 +674,9 @@ Had a meeting at Cornwall in the forenoon; and one at Clive in the afternoon.
 Went from there over a mountain to West Point,
 where I lodged at the house of a son-in-law of David Sands.
 
+[.small-break]
+'''
+
 +++[+++Holding meetings by the way,
 he appears now to have bent his course towards Philadelphia, at which city, he states,
 he attended the Yearly Meeting and three Monthly Meetings.
@@ -749,11 +773,17 @@ the washing of regeneration and renewing of the heart,
 by the power and influence of the Holy Spirit.
 I felt peace and satisfaction in the censure of these hard-hearted taskmasters.
 
+[.small-break]
+'`'``'
+
 +++[+++After leaving Richmond, he appears to have been again at Wyon Oak,
 where he attended a Quarterly Meeting;
 and on the 1st of Twelfth Month proceeded to Burley, Scarbrook, and Blackwater, where,
 and at a number of other places, he had meetings without recording any remarks,
 till coming to Lower Trent, his narrative proceeds:--]
+
+[.small-break]
+'''
 
 I attended the meeting with dear Martha Routh and Lydia Rotch;
 when the Lord was graciously pleased to unite us under
@@ -806,7 +836,10 @@ May the Lord direct and keep you; there is no other Saviour.
 
 --
 
-+++[+++His narrative proceeds:]--The select Quarterly Meeting
+[.offset]
++++[+++His narrative proceeds:]
+
+The select Quarterly Meeting
 at Contentney was held on the Seventh day,
 a public meeting on First day, and the meeting for discipline on Second day.
 Fourth day, I rode to Bonecreek, and had a meeting; after which I intended to go to Nuce,
@@ -875,6 +908,9 @@ which seemed like a change from savage to civilized life,
 kind friends and a comfortable house, clean and fit;
 especially when contrasted with the dwellings of the backwood`'s people.
 
+[.small-break]
+'''
+
 +++[+++After leaving this comfortable abode,
 he mentions having had a number of meetings on his way to Philadelphia; where,
 to their mutual rejoicing, he met unexpectedly with his beloved sisters, Martha Routh,
@@ -894,7 +930,7 @@ On Seventh day last I arrived at this city, where I met with your two letters:
 I was glad of them,
 (as it is more than seven months since I received one;) though some of the
 intelligence they contained affected me;--so many removals by death,
-and also your concern about going to +++[+++reside in Edinburgh.
+and also your concern about going to +++[+++reside] in Edinburgh.
 In this prospect I cannot help feeling much sympathy with you,
 well knowing how trying it must be; though I have no manner of doubt of its being right.
 Our path through this vale of tears seems to be a singular one; but no matter,

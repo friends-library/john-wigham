@@ -2,7 +2,7 @@
 
 [.chapter-synopsis]
 * Prospect of a Religious Visit to Friends in North America
-* His Voyage There and Landing at Boston In 1794
+* Voyage There and Landing at Boston In 1794
 
 In the year 1793, a very weighty concern revived in my mind, to visit Friends in America;
 of which I had had some prospect, before leaving England;
@@ -24,11 +24,11 @@ I proceeded to London,
 where I had also the unity of the Yearly Meeting of Ministers and Elders;
 and thus the way seemed clear for my procedure.
 
+[.offset]
++++[+++Previous to his embarking for America, he wrote to his wife as follows:]
+
 [.embedded-content-document.letter]
 --
-
-[.blurb]
-=== Previous to his embarking for America, he wrote to his wife as follows:
 
 [.signed-section-context-open]
 London, Fifth Month 22nd, 1794.
@@ -53,8 +53,8 @@ a very agreeable lodging it is, the whole family are so affectionately kind:
 they often speak of you with much respect.
 
 The Yearly Meeting is very large, the new Meetinghouses,
-both the men`'s and women`'s are quite filled;
-^footnote:[The first year in which the present Meeting-houses were thus used.]
+both the men`'s and women`'s are quite filled;^
+footnote:[The first year in which the present Meeting-houses were thus used.]
 and it may be acknowledged,
 that evident tokens of the Great Master`'s regard were to be felt:
 yet I do believe we should be more eminently blessed with His presence,
@@ -66,10 +66,12 @@ prevalent in our meetings for discipline.
 [.embedded-content-document.letter]
 --
 
+[.letter-heading]
+To Barbara Cruikshank.
+
 [.signed-section-context-open]
 London, 20th of Sixth Month, 1794.
 
-[.salutation]
 To Barbara Cruikshank.
 
 In love unchangeable I salute you;
@@ -192,11 +194,8 @@ We have seen many porpoises and one whale, a wonderful creature.--
 [verse]
 ____
 "`Marvellous are your works,
-
 Parent of good Almighty:
-
 Thine this universal frame, thus wondrous fair;
-
 Thyself how wondrous then!`"
 ____
 

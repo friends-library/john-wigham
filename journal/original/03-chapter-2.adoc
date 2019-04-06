@@ -2,7 +2,7 @@
 
 [.chapter-synopsis]
 * Prospect of a Religious Visit to Friends in North America
-* His Voyage There and Landing at Boston In 1794
+* Voyage There and Landing at Boston In 1794
 
 In the year 1793, a very weighty concern revived in my mind, to visit Friends in America;
 of which I had had some prospect, before leaving England;
@@ -24,8 +24,8 @@ I proceeded to London,
 where I had also the unity of the Yearly Meeting of Ministers and Elders;
 and thus the way seemed clear for my procedure.
 
-[.blurb]
-=== Previous to his embarking for America, he wrote to his wife as follows:
+[.offset]
++++[+++Previous to his embarking for America, he wrote to his wife as follows:]
 
 [.embedded-content-document.letter]
 --
@@ -66,11 +66,11 @@ prevalent in our meetings for discipline.
 [.embedded-content-document.letter]
 --
 
+[.letter-heading]
+To Barbara Cruikshank.
+
 [.signed-section-context-open]
 London, 20th of Sixth Month, 1794.
-
-[.salutation]
-To Barbara Cruikshank.
 
 In love unchangeable I salute thee;
 in which I feel afresh united to thee in spirit in the gospel covenant,
@@ -193,11 +193,8 @@ We have seen many porpoises and one whale, a wonderful creature.--
 [verse]
 ____
 "`Marvellous are your works,
-
 Parent of good Almighty:
-
 Thine this universal frame, thus wondrous fair;
-
 Thyself how wondrous then!`"
 ____
 
