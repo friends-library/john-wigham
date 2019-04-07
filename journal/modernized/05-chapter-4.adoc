@@ -1,6 +1,7 @@
 == Chapter IV.
 
-His Travels In America Continued--Returns Home in 1797
+[.chapter-synopsis]
+* Travels In America Continued--Returns Home in 1797
 
 +++[+++From Philadelphia John Wigham journeyed towards New York, holding several meetings;
 among which he mentions, Almswick and Colebarrack, as affording a pleasant prospect,
@@ -9,7 +10,10 @@ particularly at the former place, where he says, he had a comfortable silent mee
 Leaving New York, he proceeded to Flushing; where, and at some other places,
 he had meetings; and returned again to that city.
 His manuscript, at this part supplies no dates,
-but continues with the following remarks:--]
+but continues with the following remarks:]
+
+[.small-break]
+'''
 
 Friends in Long Island seem to me to depend too much on the labours of others,
 of which much has been bestowed, for they have several able ministers among them;
@@ -114,8 +118,13 @@ nor do I at this time ask for more than light to see, and ability to perform it.
 The Yearly Meeting which commenced this day was graciously owned,
 and I hope it proved a profitable time to many.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Christy.
 
+[.signed-section-context-open]
 Philadelphia, 24th of Ninth Month, 1796.
 
 I am come here to attend the Yearly Meeting,
@@ -129,6 +138,8 @@ condescends to be a present help in the needful time.
 I can write encouragingly to you, to dedicate your heart and all to Him,
 and to serve Him faithfully in the way of His
 requirings:--He will be your helper in every trial.
+
+--
 
 After the Yearly Meeting at Philadelphia was over,
 I proceeded to the Yearly Meeting at Baltimore, accompanied by Ebenezer Cresson,
@@ -152,11 +163,19 @@ several of the meetings seem likely to be discontinued.
 We were refreshed both in body and mind, at the house of Susanna Matthews, widow,
 who delights to wash the disciples`' feet; may the Lord reward her labours of love.
 
-+++[+++It appears he was at New York in the Eleventh Month, 1796,
-from which city he addressed a letter.--]
+[.small-break]
+'''
 
++++[+++It appears he was at New York in the Eleventh Month, 1796,
+from which city he addressed a letter.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Daughter, Jane Cruickshank.
 
+[.signed-section-context-open]
 New York, 6th of Eleventh Month, 1796.
 
 You have so often been the companion of my mind,
@@ -199,6 +218,8 @@ I never felt more love to you all;
 yet I believe it best to resign you to the keeping of the Shepherd of Israel; believing,
 if you are faithful to Him, He will keep you.
 
+--
+
 +++[+++About this part of his travels,
 John Wigham gives a list of a number of places at which he had meetings;
 he also states having attended the Quarterly Meetings at Concord and London-grove,
@@ -211,10 +232,15 @@ my mind was refreshed in their company.`"
 No dates are supplied here.
 He afterwards enumerates thirty-one different places which he visited,
 and came again to Philadelphia.
-The two following letters appear to have been written during this interval:--]
+The two following letters appear to have been written during this interval:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Barbara Cruickshank.
 
+[.signed-section-context-open]
 Hockeson, Pennsylvania, 16th of Eleventh Month, 1796.
 
 I received your acceptable lines about two weeks ago.
@@ -238,11 +264,15 @@ though if no new concern open,
 perhaps I may get through the prospect now before me this winter;
 I sometimes look at reaching the next Yearly Meeting in London.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Wife.
 
+[.signed-section-context-open]
 Philadelphia, 15th of Second Month, 1797.
 
 I received my dear Eliza`'s acceptable letter, dated the 3rd of Eleventh Month,
@@ -277,6 +307,8 @@ it will not be long;--let us keep the recompense of reward in
 view;--if we can only attain to a quiet habitation at last,
 all these conflicts will be forgotten.
 
+--
+
 Here (at Philadelphia,) I attended meetings almost every day,
 and in company with Martha Routh, visited twenty-four schools,
 and had some satisfactory times with the children.
@@ -296,11 +328,16 @@ I was with them at one of their weekly meetings, much to my satisfaction.
 
 Left Philadelphia to attend the Quarterly Meetings of Woodbury, Bucks, and Burlington;
 and then returned to the city,
-and attended the Spring General Meeting +++[+++of Ministers and Elders,
+and attended the Spring General Meeting +++[+++of Ministers and Elders,]
 and three Monthly Meetings which succeeded.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Christy.
 
+[.signed-section-context-open]
 Philadelphia, 4th of Fourth Month, 1797.
 
 I feel unfit to stain much paper with the pen, yet to you I think I can do a little,
@@ -324,6 +361,8 @@ and verily I often think, none can be more unworthy than myself:--however,
 I have no disposition at present to complain; I must acknowledge that the Lord is good.
 May we be enabled to keep our eye single unto Him, and lean upon Him;
 this will meet His acceptance.
+
+--
 
 Fourth Month 6th, 1797.
 Left Philadelphia, and embarked in the brig Maria, Captain Strong, for Charleston,
@@ -388,8 +427,13 @@ and had two meetings.
 Here are a few, who call themselves, and are called by others Friends;
 but alas! the name is all; they seem completely united with the world.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Daughter Jane Cruickshank.
 
+[.signed-section-context-open]
 Charleston, South Carolina, 21st of Fourth Month, 1797.
 
 Though we are far, very far separated,
@@ -413,11 +457,15 @@ and watching and warring against it in all its varied appearances.
 My spirit salutes you, and bids you fear not;--hold fast your confidence,
 and keep on your way in the littleness`';--O! the littleness, how beautiful and how safe!
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Christy.
 
+[.signed-section-context-open]
 Charleston, South Carolina, 21st of Fourth Month, 1797.
 
 I arrived here yesterday, having had a passage of two weeks from Philadelphia;
@@ -456,6 +504,8 @@ We love one another, and in that reciprocal love, may we experience a growth;
 which no doubt we shall do, as we continue to watch and war against everything,
 that would obstruct the precious spiritual union with the Father and the Son,
 in whom is the life.
+
+--
 
 Second day.
 Set out towards Wrightsburgh, in Georgia;
@@ -588,8 +638,13 @@ besides his former companion Ebenezer Cresson,
 Joseph Wing a Friend in the station of an Elder, was also with him.]
 took several meetings by the way.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Barbara Cruickshank.
 
+[.signed-section-context-open]
 Portland, 10th of Seventh Month, 1797.
 
 I know it is pleasing to converse in this way with those we love;
@@ -629,6 +684,8 @@ Persons going to Nova Scotia mostly go by water;
 but I seem most easy to try to get through by land,
 my mind being drawn to a scattered people among the bays and lakes, which,
 I am informed abound in that country.
+
+--
 
 At Broodcove had a meeting with some newly convinced persons,
 to our comfort and rejoicing:
@@ -714,6 +771,9 @@ in their meeting-house on First day afternoons.
 From Halifax we rode to Anapolis, having several meetings on our way there,
 and one there to good satisfaction.
 
+[.small-break]
+'''
+
 +++[+++By the date of a letter to a Friend in England,
 John Wigham appears to have been at Halifax, on the 19th of Eighth Month,
 probably at this second time;
@@ -730,6 +790,9 @@ I may do nothing against it.
 Satisfaction and peace sometimes flow in my mind,
 in endeavouring to do the little committed to me honestly,
 believing that the Lord does not require more than He gives.`"]
+
+[.small-break]
+'''
 
 Went to Digby by water, where we had a meeting in the church (so called).
 In the afternoon, paid a visit to the clergyman and his family;
@@ -812,8 +875,13 @@ had occurred during my absence,--yet I could do
 no less than commemorate the Lord`'s goodness,
 and in deep humility and thankfulness acknowledge, that I had lacked nothing.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Christy.
 
+[.signed-section-context-open]
 Liverpool, Eleventh Month 22nd, 1797.
 
 We had a passage of five weeks, rather rough,
@@ -829,10 +897,17 @@ and a confidence was afforded, that He continued to be our guardian.
 You know I went out a poor creature;--I am returned a poor creature still:
 yet through mercy, I feel love to the brethren.
 
+--
+
+[.offset]
 +++[+++John Wigham has recorded the following:]
+
+[.small-break]
+'''
+
 Have travelled in America to 20th of Seventh Month, 1796, then at Muncy, 7502 miles.
 From the above date, to 6th of Third Month, 1797, at James Emlen`'s, Middletown:
 2000 miles.
 From ditto, to Fifth Month 24th, at Charleston: 1477 miles.
 Making 10,979 miles.
-Travelled in all, from my leaving home to my return, by sea and land, 22,752 miles.]
+Travelled in all, from my leaving home to my return, by sea and land, 22,752 miles.
