@@ -1,5 +1,6 @@
 == A Testimony
 
+[.chapter-subtitle--blurb]
 From Aberdeen Monthly Meeting, concerning John Wigham,
 now departed this life at Aberdeen, the 17th of Fourth Month, 1839,
 and was interred in Friends`' Burial-ground, at Kinmuck, the 20th of the same.
@@ -253,10 +254,8 @@ Signed in and on behalf of the women`'s meeting, held at the same time and place
 [.signed-section-signature]
 Lucy Cruickshank, Clerk.
 
-[.asterism]
-'''
-
-The Testimony of Aberdeen Monthly Meeting concerning Elizabeth Wigham.
+[.blurb]
+=== The Testimony of Aberdeen Monthly Meeting concerning Elizabeth Wigham.
 
 It having pleased the Lord to remove from a state of probation,
 this our much beloved friend,
