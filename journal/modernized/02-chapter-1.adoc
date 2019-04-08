@@ -1,7 +1,10 @@
 == Chapter I.
 
-His Birth and Parentage--Religious Exercises in Early Life--
-His Marriage and Call to the Ministry--Removal into Scotland.
+[.chapter-synopsis]
+* Birth and Parentage
+* Religious Exercises in Early Life
+* Marriage and Call to the Ministry
+* Removal into Scotland
 
 As I have frequently had it on my mind,
 to leave behind me some record of the Lord`'s gracious dealings with me from my childhood,
@@ -195,7 +198,7 @@ and in a way that satisfied me at once, and has done so ever since: it was thus,
 that as Adam`'s sin was disobedience, and aspiring to the knowledge of good and evil,
 so his offspring are innocent,
 (or not held responsible,) till they arrive at a capacity to partake of this knowledge.
-This will apply to idiots also, as well as children.--Rom. 4:15; v. 13.
+This will apply to the mentally handicapped also, as well as children.--Rom. 4:15; v. 13.
 
 Another point of doctrine with which I was then much tried,
 was that of election and reprobation,
@@ -342,6 +345,9 @@ but though we have been like pilgrims,
 the Lord has in his abundant goodness fully satisfied us,
 that our coming was in the way of our duty.
 He has been truly our Shepherd, and we have not lacked.
+
+[.small-break]
+'''
 
 +++[+++My dear father has not left any record of this period of his first coming to Edinburgh,
 but it is known to have been one of peculiar trial and difficulty.

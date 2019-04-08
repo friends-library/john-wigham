@@ -1,11 +1,16 @@
-== A TESTIMONY
+== A Testimony
 
+[.chapter-subtitle--blurb]
 From Aberdeen Monthly Meeting, concerning John Wigham,
 now departed this life at Aberdeen, the 17th of Fourth Month, 1839,
 and was interred in Friends`' Burial-ground, at Kinmuck, the 20th of the same.
 He was in the 91st year of his age, and had been a Minister about 67 years.
 
+[quote.scripture, ,Psalms 37:37]
+____
+
 "`Mark the perfect man, and behold the upright; for the end of that man is peace.`"
+____
 
 This declaration of the royal Psalmist,
 we believe to be peculiarly applicable to this our dear and honoured friend;
@@ -240,14 +245,17 @@ General Meeting for Scotland, held at Edinburgh, 4th of Fifth Month, 1840.
 "`The foregoing Testimony on behalf of our late dear friend John Wigham,
 has been received from Aberdeen Monthly Meeting, and being approved,
 is signed on behalf of the meeting.`"
+
+[.signed-section-signature]
 William Miller, Clerk.
+
 Signed in and on behalf of the women`'s meeting, held at the same time and place.
+
+[.signed-section-signature]
 Lucy Cruickshank, Clerk.
 
-[.asterism]
-'''
-
-The Testimony of Aberdeen Monthly Meeting concerning Elizabeth Wigham.
+[.blurb]
+=== The Testimony of Aberdeen Monthly Meeting concerning Elizabeth Wigham.
 
 It having pleased the Lord to remove from a state of probation,
 this our much beloved friend,
@@ -354,6 +362,7 @@ She was in the seventy-ninth year of her age, and a minister upwards of fifty ye
 Signed on behalf of our aforesaid meeting, held at Aberdeen, the 16th of Fourth Month,
 1828.
 
+[.signed-section-signature]
 Jane Cruickshank.
 Amos Cruickshank.
 Barbara Wigham.
@@ -379,8 +388,12 @@ William Joss, Elizabeth Glenny, Jane Robb, Margaret Robb, Sarah Cruickshank.
 The foregoing Testimony having been read and
 approved in the General Meeting for Scotland,
 held at Edinburgh, this 28th day of Fourth Month, 1828, is signed in,
-and on behalf thereof, by William Smeal, Jun., Clerk.
+and on behalf thereof, by
+
+[.signed-section-signature]
+William Smeal, Jun., Clerk.
 
 Signed, in and on behalf of the Women`'s Meeting.
 
+[.signed-section-signature]
 Jane Wigham, Clerk

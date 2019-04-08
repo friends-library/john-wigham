@@ -1,7 +1,8 @@
 == Chapter II.
 
-Prospect of a Religious Visit to Friends in North America--His
-Voyage Thither and Landing at Boston In 1794.
+[.chapter-synopsis]
+* Prospect of a Religious Visit to Friends in North America
+* Voyage There and Landing at Boston In 1794
 
 In the year 1793, a very weighty concern revived in my mind, to visit Friends in America;
 of which I had had some prospect, before leaving England;
@@ -23,8 +24,13 @@ I proceeded to London,
 where I had also the unity of the Yearly Meeting of Ministers and Elders;
 and thus the way seemed clear for my procedure.
 
-+++[+++Previous to his embarking for America, he wrote to his wife as follows:--]
+[.offset]
++++[+++Previous to his embarking for America, he wrote to his wife as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, Fifth Month 22nd, 1794.
 
 I doubt not thou wilt be desirous to know what I am doing.
@@ -55,12 +61,16 @@ yet I do believe we should be more eminently blessed with His presence,
 if there were less of the wisdom of the creature
 prevalent in our meetings for discipline.
 
-[.asterism]
-'''
+--
 
-London, 20th of Sixth Month, 1794.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 To Barbara Cruikshank.
+
+[.signed-section-context-open]
+London, 20th of Sixth Month, 1794.
 
 In love unchangeable I salute thee;
 in which I feel afresh united to thee in spirit in the gospel covenant,
@@ -93,7 +103,8 @@ suggesting that +++[+++the matter presented]
 is something very suitable to their states, and may bring esteem to self.
 
 All these things, my dear Barbara, are carefully to be rejected,
-and the patient waiting kept in, for the return of the right thing +++[+++the Divine Anointing,
+and the patient waiting kept in, for the return of the right thing
++++[+++the Divine Anointing,]
 which perhaps may come in, whilst the mind is under a feeling of great weakness;
 and a cross +++[+++to the natural will]
 will be experienced in stepping forward under this weakness.
@@ -110,6 +121,8 @@ and suppose thou wilt not be unwilling to acknowledge thyself one.
 Every crown must be cast down at the feet of Jesus.--O! may He preserve thee,
 and nurse thee in the arms of His love; and enable thee,
 under the influence of His Spirit, to remember poor me, and to beg for my preservation.
+
+--
 
 I embarked at London on board the ship Barclay, bound for Boston, New England,
 the 21st of Seventh Month, 1794:
@@ -177,13 +190,13 @@ that we may be enabled to serve thee more acceptably.
 and look a little cheerful today.
 We have seen many porpoises and one whale, a wonderful creature.--
 
-"`Marvellous are thy works,
-
+[verse]
+____
+"`Marvellous are your works,
 Parent of good Almighty:
-
 Thine this universal frame, thus wondrous fair;
-
-"`Thyself how wondrous then!`"
+Thyself how wondrous then!`"
+____
 
 O! enable me still to put my trust in thy name, and constantly to watch unto prayer,
 that I may be preserved from the wiles of the enemy, who I feel is busy with me,
@@ -216,7 +229,7 @@ but this morning they are out of sight.
 The wind continues fair, though but little of it; very pleasant weather.
 
 13th. Wind fair and pretty fresh.
-I have a headache, but my mind though poor, is, through mercy, pretty quiet,
+I have a head-ache, but my mind though poor, is, through mercy, pretty quiet,
 and my confidence in the sufficiency of infinite Power and goodness is renewed:
 may no instability in me, tend to lessen it.
 
