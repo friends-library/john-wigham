@@ -209,9 +209,6 @@ the fare will be better for him, and the journeys shorter.
 [.offset]
 +++[+++To return to his journal.]
 
-[.small-break]
-'''
-
 We visited the few families professing with Friends in the island of Guernsey,
 and had some public meetings;
 being kindly entertained and assisted by our valued friends, Nicholas and Mary Naftal;
@@ -465,12 +462,8 @@ and found nothing in the way.]
 [.offset]
 +++[+++From his Journal]
 
-[.small-break]
-'''
-
-Edinburgh, 13th of Fourth Month, 1806.
-
-Several years have passed over since I wrote the foregoing.
+Edinburgh, 13th of Fourth Month, 1806.--Several years have passed over 
+since I wrote the foregoing.
 I have been, since that period, but little out of Scotland,
 and nothing relative to worldly matters has particularly affected me; yet my exercises,
 and days of mourning have been deep and many.
