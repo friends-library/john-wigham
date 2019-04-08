@@ -1,6 +1,10 @@
 == Chapter VI.
 
-Return from Ireland--Letters--Conclusion of His Journal--Last Illness and Decease in 1839.
+[.chapter-synopsis]
+* Return from Ireland
+* Letters
+* Conclusion of His Journal
+* Last Illness and Decease in 1839
 
 Fifth Month 6th, 1813.
 Returned from a visit to Friends in Ireland, Cumberland,
@@ -15,8 +19,13 @@ May my soul forever adore and praise my gracious helper,
 and acknowledge Him as the giver of every good and perfect gift!
 Amen!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Twelfth Month 11th, 1813.
 
 The revival of trade, and the fall in the price of grain,
@@ -38,12 +47,16 @@ and they that are his disciples now, must know the separation,
 and keep in the separation from the world, or they will lose their title.
 Let your moderation appear unto all men.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Elizabeth.
 J+++.+++ Fry.
 
+[.signed-section-context-open]
 Aberdeen, Fifth Month 25th, 1817.
 
 Shall I once more address my dearly beloved friend?
@@ -78,11 +91,15 @@ Let us then, dear Elizabeth, hold fast our confidence,
 trust in the Lord`'s mercy and goodness,
 and follow Him faithfully in the way of His requirings.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Seventh Month 21st, 1817.
 
 I received thine, containing an affecting account of thy poor Mary`'s indisposition;
@@ -99,11 +116,15 @@ how soon and unexpectedly a termination to all things here, with respect to us,
 may take place: how needful it is to be always ready.
 "`Pass the time of your sojourning here in fear,`" says an apostle.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Fourth Month 15th, 1818.
 
 I yesterday received the mournful intelligence of the removal of our dear John Robertson,
@@ -134,6 +155,8 @@ that thou may not be overburthened with the cares of things appertaining to this
 for truly, if we can get the needful accommodation for the body,
 with that it is best to be content.
 
+--
+
 Sixth Month 29th, 1818.
 I am lame and weak, but still able to get to meetings, which I esteem a favour.
 Indeed I have much to be thankful for, and no cause to complain.
@@ -143,8 +166,13 @@ I am often humbled and thankful in commemorating His unmerited mercy;
 and if He will be pleased to preserve me, the few remaining days I have to stay,
 from dishonouring Him or his cause, I shall forever praise Him.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Fourth Month 21st, 1819.
 
 I send along with this, William Penn`'s Key, for +++_____+++'`s perusal;
@@ -173,11 +201,15 @@ also in simplicity receive the engrafted word, and walk in the light of it;
 and then he would come to have fellowship with Christ and with his servants,
 then would he indeed know the blood of Christ to cleanse him from all sin.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Sixth Month 24th, 1819.
 
 Thy account of the Yearly Meeting was pleasant and reviving;
@@ -214,11 +246,15 @@ till He has made me just what He would have me to be.
 and lean not to thy own understanding;`" and there is no doubt with me,
 but all will be well.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Twelfth Month 23rd, 1820.
 
 It is certainly safest to be in a little way +++[+++of business]
@@ -236,11 +272,15 @@ for which I hope I am thankful;
 and if He preserve me to the end from dishonouring His cause,
 I shall praise Him forever.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Eleventh Month 24th, 1821.
 
 I would have acknowledged thy letter sooner,
@@ -263,13 +303,17 @@ and follow Him in the way of his leadings.
 When thou wast a child, I was a man; and now I am the child, and thou art the man.
 A word to the wise is sufficient.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Niece, Margaret Wigham, late Johnston.
 
-It is without date,
-but supposed to have been written about the time of her leaving Aberdeen.
+[.offset]
++++[+++It is without date,
+but supposed to have been written about the time of her leaving Aberdeen.]
 
 I shall miss thee much; but hoping thou art going to thy right place, I am resigned.
 Mayst thou and thy dear Thomas grow in grace,
@@ -295,10 +339,17 @@ You are a little company in Corwood Meeting, which I frequently think of,
 with desires that you may be built up together in the Truth,
 and stand as ensigns to the people about you, that your lights may shine, which,
 if you are circumspect and watchful, will be the case.
-The Lord will do you good,
+The Lord will do you good.
 
-To His Nephew, Thomas Wigham,Written soon after the decease of his wife.
+--
 
+[.offset]
++++[+++To His Nephew, Thomas Wigham, Written soon after the decease of his wife.]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 First Month 18th, 1823.
 
 I nearly sympathise with thee in thy recent great loss, also with thy dear mother;
@@ -306,13 +357,13 @@ she will feel much; it will greatly increase her concern for the poor children:
 but resignation must be sought for.
 Young, when writing on the subject, says:--
 
+[verse]
+____
 What cannot Resignation do?
-
 It wonders can perform:
-
 That powerful charm, "`Thy will be done,`"
-
 Can lay the loudest storm.
+____
 
 We too have had a heavy loss in the removal of our dearly beloved
 Elizabeth Glenny--+++[+++a granddaughter who resided with him.]
@@ -326,11 +377,15 @@ we may rejoice in the belief, that they are forever safe.
 My love to A. H., and tell her, if she do her duty,
 she will take good care of the motherless children.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, First Month 29th, 1823.
 
 Young and old are liable to many ailments,
@@ -350,11 +405,15 @@ the snares that await us in this pilgrimage,
 how can I mourn?--when I hope she, whom I so dearly loved, is rejoicing,
 and singing hallelujah to the Lord God and the Lamb.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Second Month 5th, 1824.
 
 As to my spiritual attainments, I am as weak as a child;
@@ -380,11 +439,15 @@ through the prevalence of wrong things; and this depression may often be felt,
 when no way opens for relief--nay, even when we do not see the cause of it.
 Patience is then necessary, to wait the Lord`'s time for a change of the dispensation.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Eleventh Month 21st, 1827.
 
 I often think of you at +++_____+++, with fervent desires that you may be preserved,
@@ -403,11 +466,15 @@ believing thou hast many heavy burdens to bear; but the Lord is thy shepherd,
 thou shalt not want strength to support in every exercise.
 Trust in Him with all thy heart, and lean not to thy own understanding.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Third Month 5th, 1828.
 
 I have frequently thought of writing thee, since I received thy last acceptable letter;
@@ -435,11 +502,18 @@ There are indeed many temptations and snares, so that we have great need of watc
 yea frequently begging of the Lord to help us to watch,
 for we are poor watchers without His help.
 
+--
+
 +++[+++The following is stated to be the last letter he wrote, and may come in here,
 though of later date than the next and concluding paragraph of his journal.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, Second Month 20th, 1829.
 
 The expression of thy sympathy, and the hope thou hast for me, is truly grateful;
@@ -456,9 +530,9 @@ has obliged me to stop and rest my eye, before I could see where to make a strok
 I must therefore conclude with the expression of a saying of our blessed Lord,
 "`Blessed are the peace makers, for they shall be called the children of God.`"
 
-[.asterism]
-'''
+--
 
+[.offset]
 +++[+++Final Journal Entry]
 
 Ninth Month 17th, 1828.
@@ -623,7 +697,7 @@ About a week afterwards, he expressed himself thus:-- "`My cough is rather bette
 and were it not that I feel often so sickly, and my relish for food so much declining,
 I might perhaps get better of this cold, as I have of many other colds;
 but these feelings preclude that expectation, not that I know anything about it, for,
-+++[+++respecting the issue of the present illness, I know nothing; but this I know,
++++[+++respecting the issue of the present illness,] I know nothing; but this I know,
 that it is my duty to wait patiently the Lord`'s time, which we are sure is the best time.
 It looks pleasanter to be dissolved, and freed from suffering;
 but then I desire to be content and resigned to His will.`"

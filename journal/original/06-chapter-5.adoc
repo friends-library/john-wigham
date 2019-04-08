@@ -1,21 +1,26 @@
 == Chapter V.
 
-Visits the Western Counties of England,
-etc. in 1799 --Attends the Yearly Meeting in London,
-in 1800--Visits the Meetings of Friends in Various--Counties on His
-Return--Remarks on His Trials--Religious Exercises and Providential
-Preservations--Observations on the State of Society at Edinburgh,
-in 1806--Visits Parts of Yorkshire, Lincoln`'s Hire, etc.
-In 1808, Accompanied by George Richardson--With Same Friend as Companion,
-Visits the Meetings in and about London, and Some of the Southern and Midland Counties,
-in 1809--Thoughts on the Nature Of Love, 1812.
+[.chapter-synopsis]
+* Visits the Western Counties of England, etc. in 1799
+* Attends the Yearly Meeting in London in 1800
+* Visits the Meetings of Friends in Various Counties on His Return
+* Remarks on His Trials
+* Religious Exercises and Providential Preservations
+* Observations on the State of Society at Edinburgh, in 1806
+* Visits Parts of Yorkshire, Lincoln`'s Hire, etc. In 1808, Accompanied by George Richardson
+* With Same Friend as Companion,
+* Visits the Meetings in and about London, and Some of the Southern and Midland Counties, in 1809
+* Thoughts on the Nature Of Love, 1812
 
 +++[+++Previous to his entering on the visit to the western counties,
 of which an account follows, it appears,
 John Wigham attended the Yearly Meeting in London,
 as one of the representatives from the Half Year`'s Meeting for North Britain.
 In the minutes of this Meeting, of date 30th of Fourth Month, 1798,
-the following is recorded, viz. --
+the following is recorded, viz.]
+
+[.embedded-content-document.minutes]
+--
 
 "`Two certificates on behalf of our esteemed friend John Wigham, have been now read,
 to our comfort and edification; and his company and gospel labours, have,
@@ -23,14 +28,21 @@ on this occasion, been truly acceptable, and for his peaceful return we feel tha
 One of these certificates is from the Yearly Meeting held in Rhode Island,
 for New England, in the Third Month, 1795,
 and the other from the General Meeting of Ministers and Elders, held in Philadelphia,
-in the Third Month, 1797.]
+in the Third Month, 1797.
+
+--
 
 In the Sixth Month, 1799, I set out on a religious visit to Friends,
 in the western counties of England: my dear wife accompanied me, through Cumberland,
 and then returned.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son-in-law, James Glenny.
 
+[.signed-section-context-open]
 Edinburgh, Sixth Month 14th, 1799.
 
 I am pleased to hear that you are favoured with health:--may
@@ -56,13 +68,21 @@ After my dear wife parted from me, I proceeded through Westmoreland, Lancashire,
 Cheshire, South Wales, by Bristol as far as the Lands-end in Cornwall;
 and I crossed to the island of Guernsey, in company with my friend John Abbott.
 
+--
+
+[.offset]
 +++[+++The three following letters were written whilst on his journey.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son-in-law, John Cruickshank.
 
+[.signed-section-context-open]
 Preston, Eighth Month 7th, 1799.
 
-----I have been helped along from place to place,
+I have been helped along from place to place,
 and been enabled to clear myself to a good degree of
 satisfaction;--though I have visited many low spots,
 many poor meetings, where little of the life of religion seems to be left,
@@ -94,11 +114,15 @@ helpers one of another, preferring one another in love,
 knit together by a bond of love that can never be broken:
 then will you shine in your day, and the enemy shall never be able to hurt you.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Christy.
 
+[.signed-section-context-open]
 Coalbrookdale, Eighth Month 23rd, 1799.
 
 Thy sensibility of weakness confirms my belief,
@@ -127,11 +151,15 @@ to hobble on from place to place; and I hope He has preserved me from hurting th
 and that I may have been enabled sometimes to
 administer a little encouragement to the honest-hearted.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Daughter-in-Law, Barbara Wigham.
 
+[.signed-section-context-open]
 Bristol, Ninth Month, 1799.
 
 I feel inclined to address thee in this way.--I love thee as a daughter,
@@ -176,6 +204,9 @@ The weather has been wet, the roads bad, and the hay bad,
 so that my horse has got much worn down; but I hope, as I am now in England,
 the fare will be better for him, and the journeys shorter.
 
+--
+
+[.offset]
 +++[+++To return to his journal.]
 
 We visited the few families professing with Friends in the island of Guernsey,
@@ -210,8 +241,13 @@ Frome--I had meetings at these and several other places, till I came to Stockwel
 near London, to my kind friend`'s, Miller Christy,
 where I arrived on the 1st of First Month, 1800.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Daughter-in-law, Barbara Wigham.
 
+[.signed-section-context-open]
 Stocknell, First Month 4th, 1800.
 
 I received thine of Twelfth Month 4th, by which I was refreshed;
@@ -231,6 +267,8 @@ I have not been in London, though I have been here two days, within three miles 
 I rather hope I may not be detained in the city: Sarah Lynes, Susanna Horne,
 and several other friends +++[+++in the ministry,]
 are engaged in it.
+
+--
 
 After visiting the families of Friends of Wandsworth meeting,
 and attending a Quarterly Meeting at Esher in Surrey, I turned northward;
@@ -278,8 +316,13 @@ O! what shall I render unto Him for all His benefits I write these memorandums,
 that when I am gone, my children may be encouraged,
 by seeing and knowing how He has supported me.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To A. C.
 
+[.signed-section-context-open]
 Kinmuck, Sixth Month 12th, 1801.
 
 The intelligence conveyed in thine is very grateful to me,
@@ -295,11 +338,15 @@ and I do believe that to all generations a people will be preserved, and enabled
 to hold up a testimony to the sufficiency of that foundation--the Rock,
 against which He hath declared the gates of hell shall not prevail.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son-in-law, James Glenny.
 
+[.signed-section-context-open]
 Edinburgh, Third Month 15th, 1803.
 
 Though I have frequently heard of thee since I saw thee,
@@ -318,11 +365,15 @@ and to fix our hope more steadfastly on things above, or beyond time.
 May we acquiesce in the Divine will,
 and endeavour to profit by the various dispensations allotted us.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son-in-law, James Glenny.
 
+[.signed-section-context-open]
 Edinburgh, Fourth Month 13th, 1803.
 
 I received thine, and though it brought but a poor account of the state of thy health,
@@ -339,11 +390,15 @@ I would fondly hope the summer season may restore thee to health; but if otherwi
 the Lord`'s will must be submitted to:--the mainthing is peace,
 for indeed the world is full of troubles.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To A. C.
 
+[.signed-section-context-open]
 Edinburgh, Second Month 6th, 1804.
 
 --I have enough to do to forbear wishing to be gone;
@@ -359,11 +414,15 @@ by leaning on the never-failing Helper, have been preserved through many a storm
 Dear +++_____+++, I never did nor do I aim at or expect great matters:
 if I be but preserved the green shrub, it is my utmost wish.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son-in-law, James Glenny.
 
+[.signed-section-context-open]
 Edinburgh, Second Month 23rd, 1804.
 
 By different accounts we have understood thou hast been getting worse lately.
@@ -398,11 +457,13 @@ He appears to have made a peaceful close; having expressed to his wife,
 when very near his end, that he was trusting in his Saviour,
 and found nothing in the way.]
 
+--
+
+[.offset]
 +++[+++From his Journal]
 
-Edinburgh, 13th of Fourth Month, 1806.
-
-Several years have passed over since I wrote the foregoing.
+Edinburgh, 13th of Fourth Month, 1806.--Several years have passed over 
+since I wrote the foregoing.
 I have been, since that period, but little out of Scotland,
 and nothing relative to worldly matters has particularly affected me; yet my exercises,
 and days of mourning have been deep and many.
@@ -438,8 +499,13 @@ and took a house at Aberdeen,
 where we have been mercifully favoured to feel quiet and peaceful;
 some reward for the late suffering labour at Edinburgh.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Cruickshank.
 
+[.signed-section-context-open]
 Aberdeen, Ninth Month 4th, 1807.
 
 I think the most I have to say is, look not too much at the dark side of things.
@@ -460,6 +526,8 @@ I think I may say at this time, I do prefer Jerusalem, and the welfare thereof,
 to any other joy; and yet near as the end may seem to us,
 new trials and conflicts may be permitted to attend our evening.
 When thou canst, do pray for us, that we may hold out.
+
+--
 
 1808+++.+++ I felt a concern revive on my mind, to visit Friends in parts of Yorkshire,
 Lincolnshire, and some places farther south.
@@ -502,8 +570,13 @@ and on Second day set off alone, and reached Aberdeen on Fifth day.
 I found my family well, and did feelingly adopt the language,
 "`What shall I render unto the Lord for all his benefits.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Aberdeen, 8th of Tenth Month, 1808.
 
 I got home on Fifth day, having had a long and lonely ride; but I held out pretty well,
@@ -524,6 +597,8 @@ I have a testimony in my heart, that such is His goodness,
 He is well worthy to be served in His own way:
 may you and I be more and more dedicated to obey Him in all things.
 
+--
+
 I stayed about home during the winter;
 my mind often much exercised upon various accounts,
 particularly from a prospect that presented, of visiting Friends in and about London,
@@ -535,8 +610,13 @@ I mentioned the subject to the Monthly Meeting in the Second Month,
 desiring Friends to feel with me; and at the following meeting I requested a certificate,
 which was readily granted, expressing their unity and sympathy.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Cruickshank.
 
+[.signed-section-context-open]
 Aberdeen, 19th of First Month, 1809.
 
 I cannot do less than acknowledge how acceptable thy letter was to me.
@@ -550,12 +630,19 @@ we cannot stand.
 Much poverty of spirit has been my allotment of late;
 but I am moving on in a degree of hope.
 
+--
+
 On the 31st of Third Month, I accordingly set sail from Aberdeen,
 had a quick and good passage of three days to London,
 and was kindly received by my esteemed friends, John Sanderson and his wife.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 London, Fourth Month 22nd, 1809.
 
 I think it will be pleasant to thee to know that I am pretty well,
@@ -572,14 +659,21 @@ and afforded relief to my own mind.
 Friends have shown me much kind attention, abundantly above my desert;
 for I can assure thee, I feel myself very little among the great and wise here.
 
+--
+
 I took meetings as they came in course, in and about London,
 till the Yearly Meeting began, when I attended its sittings.
 I then set out with my dear friend George Richardson,
 who had previously agreed to be my companion.
 We visited the meetings in Sussex and Kent; and attended the Quarterly Meeting at Dover.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, A. W.
 
+[.signed-section-context-open]
 Dover, Sixth Month 17th, 1809.
 
 I may tell thee that I am through mercy pretty well,
@@ -612,6 +706,8 @@ Pray for us, dear ,
 that we may be preserved from hurting the cause we are seeking to promote;
 and that we may not seek great things for ourselves.
 
+--
+
 We returned to London to the Quarterly Meeting: after which we visited meetings in Essex,
 Suffolk, and the families of Friends in Norwich and in Wymondham Monthly Meetings.
 We then took the meetings in Hertfordshire, Northamptonshire, and Derbyshire;
@@ -626,8 +722,13 @@ made me creep along low; yet I cannot but admire the Lord`'s goodness,
 and could say much in His praise; but so unworthy is my tongue to speak,
 or my pen to write it, that it seems safer silently to adore.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Elizabeth (Joseph) Fry.
 
+[.signed-section-context-open]
 Aberdeen, Ninth Month 28th, 1809.
 
 I reached home yesterday, and found my wife, children,
@@ -640,11 +741,15 @@ I desire to serve Him; but have no ability but what I receive from Him.
 He is all; and I am nothing.
 Amen!
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Elizabeth J. Fry.
 
+[.signed-section-context-open]
 Aberdeen, Fifth Month 26th, 1810.
 
 Under a renewed feeling of precious love, I acknowledge the receipt of thy letter:
@@ -685,11 +790,15 @@ I have felt concerned to pray, that Friends thus met together,
 may be favoured with that one great and essential thing, power and life,
 manifested through love, which begets condescension and mutual forbearance.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Elizabeth J. Fry.
 
+[.signed-section-context-open]
 Aberdeen, Ninth Month 18th, 1810.
 
 I am pleased to hear of thy satisfactory visit to+++______+++. I cannot help thinking,
@@ -739,11 +848,15 @@ that we be faithful to it, and not put it by,
 even though it may be something disagreeable to ourselves; else we shall offend our Lord,
 and weaken our own souls.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Elizabeth J Fry.
 
+[.signed-section-context-open]
 Aberdeen, 6th of Fifth Month, 1811.
 
 I have not been hasty in answering thy letter, though it was truly acceptable.
@@ -762,6 +875,8 @@ who attend the Yearly Meeting:--may you be strengthened and comforted
 by the fresh feeling of the uniting bond of harmonizing love:
 that you may be one another`'s joy in the Lord, and enabled renewedly to praise Him; for,
 verily, He hath often shewn himself good to Israel, notwithstanding all our backslidings.
+
+--
 
 1st of First Month, 1812.
 This day begins a new year.
@@ -796,8 +911,13 @@ and friendly reproof or admonition administered in its stead,
 it manifests its spurious character by angry resentment,
 and shews that it is not Christian love, but idolatry of self.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Elizabeth J. Fry.
 
+[.signed-section-context-open]
 Aberdeen, 24th of Second Month, 1812.
 
 It would be indeed pleasant to me, as thou mentionest, to sit beside thee,
@@ -813,11 +933,15 @@ It is in the course of nature that this should be the case,
 and the Lord`'s will is incontrovertibly best;
 may nothing in me ever--even as much as wish to oppose it.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Wife.
 
+[.signed-section-context-open]
 Mountmellick, Twelfth Month 24th, 1812.
 
 I received thy acceptable letter, dated 28th of last month.
@@ -833,11 +957,15 @@ I am wading along in much weakness, and can only say,
 I hope I have been hitherto preserved from dishonouring His cause;
 and that was all I asked, at setting out.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Son, Amos Wigham.
 
+[.signed-section-context-open]
 Cork, First Month 20th, 1813.
 
 I am favoured with usual health, though I frequently feel much weariness,
@@ -865,3 +993,5 @@ apprehension of our own unfitness for what He requires.
 But do we not hereby show our distrust of the all-sufficiency
 of His power He requires our passive obedience:
 the power is His, and the qualification is His gift.
+
+--
