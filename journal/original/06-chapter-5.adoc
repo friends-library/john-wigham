@@ -19,7 +19,7 @@ as one of the representatives from the Half Year`'s Meeting for North Britain.
 In the minutes of this Meeting, of date 30th of Fourth Month, 1798,
 the following is recorded, viz.]
 
-[.embedded-content-document.minutes]
+[.embedded-content-document.minute]
 --
 
 "`Two certificates on behalf of our esteemed friend John Wigham, have been now read,
